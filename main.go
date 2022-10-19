@@ -14,4 +14,5 @@ func print(value float64) {
 
 func main() {
 	print(sum(10, 10))
+	// teste
 }
